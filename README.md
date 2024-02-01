@@ -1,6 +1,7 @@
 ## 👋 Hello World! I'm Shreyas
 
-### 🚀 Data Scientist | Machine Learning Enthusiast | Python Developer
+### 🚀 Data Scientist | Machine Learning Enthusiast | Deep Learning & NLP Enthusiast | 
+
 
 Welcome to my GitHub profile!
 
