@@ -1,16 +1,37 @@
-### Hi there 👋
+## 👋 Hello World! I'm Shreyas
 
-<!--
-**shreyms29/shreyms29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Data Scientist | Machine Learning Enthusiast | Python Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Data Sorcerer:** Conjuring insights through the spells of Machine Learning, diving deep into the abyss of Deep Learning realms, and crafting tales from the language fabric with NLP incantations. Ready to enchant the world with the magic of data science!
+
+
+### 🌟 My Skills:
+
+- **Languages:** Python (NumPy, Pandas, Scikit-Learn), R
+- **Machine Learning:** Regression, Classification, Clustering, NLP, Deep Learning
+- **Deep Learning:** TensorFlow, PyTorch
+- **Natural Language Processing (NLP):** NLTK, SpaCy, Transformers
+- **Data Analysis:** Exploratory Data Analysis (EDA), Statistical Analysis
+- **Tools & Frameworks:** Jupyter, Scikit-Learn, Matplotlib, Seaborn, Tableau
+- **Database:** SQL, MongoDB
+- **Version Control:** Git, GitHub
+
+### 📚 Education:
+
+- P.E.S College Of Engineering - Bachelor of Engineering in Mechanical, 2015-2019
+- CGPA - 7.5
+
+### 🔍 My Projects:
+
+- Self Driving Car - Brief description and link to the repository
+- Text Summarizer - Brief description and link to the repository
+- ...
+
+### 🌐 Connect with Me:
+
+- [LinkedIn](https://www.linkedin.com/in/shreyas-ms29/)
+
+
+Feel free to explore my repositories and let's collaborate on exciting data science, deep learning, and NLP projects! 🤝
