@@ -26,8 +26,8 @@ Welcome to my GitHub profile!
 
 ### 🔍 My Projects:
 
-- Self Driving Car - Brief description and link to the repository
-- Text Summarizer - Brief description and link to the repository
+- Self Driving Car 
+- Text Summarizer 
 - ...
 
 ### 🌐 Connect with Me:
